@@ -1,0 +1,19 @@
+.contactheader{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 40px;
+    
+    
+}.contactheader h1{
+font-size: 48px;
+font-weight: 800;
+margin-bottom: 21px;
+
+
+}
+.contactheader p{
+    color: gray;
+    font-size: 16px;
+    margin-bottom: -50px;
+    font-weight: 600;
+}
