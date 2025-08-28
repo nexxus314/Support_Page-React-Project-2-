@@ -1,14 +1,54 @@
+# Support Page (React + Vite)
 
-# React + Vite
+A simple **React + Vite** project built by following a tutorial.  
+This app demonstrates a support/contact page where anything typed into the form fields is **instantly displayed** on the page below.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Built with **React** and **Vite** for super fast development.
+- Contact form with live preview (whatever you type gets printed below).
+- Organized component-based structure.
+- Customizable styles with CSS modules.
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
+Here’s how the app looks:
 
-## Expanding the ESLint configuration
+![App Screenshot](./public/screenshot.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*(Add more screenshots if you want — just drop them in `public/` and reference like above.)*
 
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/nexxus314/Support_Page-React-Project-2-.git
+cd Support_Page-React-Project-2-
+2. Install dependencies
+
+npm install
+
+3. Run the development server
+
+
+npm run dev
+
+Now open [http://localhost:5173](http://localhost:5173) in your browser 🚀
+
+4. Build for production
+
+
+npm run build
+
+## 🛠️ Tech Stack
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+## 🙌 Acknowledgements
+- Built by following a React + Vite tutorial.
